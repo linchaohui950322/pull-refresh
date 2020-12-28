@@ -29,6 +29,10 @@
     "chai": "^4.1.2",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
+    "less": "^4.0.0",
+    "less-loader": "^7.2.0",
+    "pug": "^3.0.0",
+    "pug-plain-loader": "^1.1.0",
     "typescript": "~3.9.3",
     "vue-template-compiler": "^2.6.11"
   }
